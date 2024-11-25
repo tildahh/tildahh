@@ -15,6 +15,15 @@
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SHAP
 - **Other**: Unix, Git, Oracle SQL Developer, Jupyter Notebooks
 
+## 🌱 Currently Learning
+- Advanced Deep Learning Architectures
+- Natural Language Processing
+- Cloud-based ML Pipeline Development
+
+## 💻 Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 <!--
 **tildahh/tildahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
