@@ -1,7 +1,9 @@
-## Hi there 👋
 
-🚀 **Aspiring ML Engineer** | 💡 Passionate about leveraging **data-driven solutions**  
-🎓 UC Berkeley MIDS Candidate | **Experience in Machine Learning, Data Analysis, and Software Development**
+### 📈 **Tech Stack**
+- **Languages**: Python, C, C++, SQL, HTML/CSS
+- **ML/AI**: scikit-learn, TensorFlow, PyTorch, Keras, XGBoost
+- **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SHAP
+- **Other**: Unix, Oracle SQL Developer, Jupyter Notebooks
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=dark)
