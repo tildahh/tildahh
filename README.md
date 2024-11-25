@@ -1,8 +1,7 @@
 ## 👩‍💻 About Me
 - 🎓 Currently pursuing Master's in Data Science at UC Berkeley School of Information
 - 💼 Associate Professional Programmer Analyst at Gainwell Technologies
-- 🤖 Passionate about turning complexity into clarity using Machine Learning, AI, and data-driven solutions
-- 📊 Passionate about transforming complex data into impactful visualizations and insights using ML/AI
+- 🤖 Passionate about turning complexity into clarity using Machine Learning, AI, impactful visualizations, and data-driven solutions
 - 🌟 AWS Academy Graduate & Certified Scrum Master (CSM)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=dark)
