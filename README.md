@@ -15,15 +15,6 @@
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SHAP
 - **Other**: Unix, Git, Oracle SQL Developer, Jupyter Notebooks
 
-## 💻 Tech Stack
-{
-    'Languages': ['Python', 'SQL', 'R', 'C/C++', 'JavaScript'],
-    'ML/AI': ['TensorFlow', 'PyTorch', 'scikit-learn', 'Keras', 'LangChain'],
-    'Data': ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn'],
-    'Cloud': ['AWS', 'Azure'],
-    'Tools': ['Git', 'Jupyter', 'Docker']
-}
-
 <!--
 **tildahh/tildahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
