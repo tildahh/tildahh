@@ -5,9 +5,6 @@
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SHAP
 - **Other**: Unix, Oracle SQL Developer, Jupyter Notebooks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=dark)
-
 <!--
 **tildahh/tildahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
