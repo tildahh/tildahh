@@ -5,7 +5,6 @@
 - 📊 Passionate about transforming complex data into impactful visualizations and insights using ML/AI
 - 🌟 AWS Academy Graduate & Certified Scrum Master (CSM)
 
-![Profile Views](https://komarev.com/ghpv/?username=tildahh&style=flat-square&color=blue)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=dark)
 
 ## 🔭 Current Projects
@@ -34,7 +33,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ---
 🎯 *"The goal is to turn data into information, and information into insight."*
