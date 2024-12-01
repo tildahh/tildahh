@@ -9,7 +9,7 @@
 ## 🔭 Current Projects
 - 🔮 Food Demand Forecasting using Neural Networks
 - 🤖 Developing ML models for predictive analytics
-- 📊 Working on various data science projects as part of my MIDS program
+- 📊 Working on various data science projects as part of MIDS
 
 ### 📈 **Tech Stack**
 - **Languages**: Python, C, C++, SQL, R, HTML/CSS, Lua, JavaScript
@@ -29,7 +29,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
