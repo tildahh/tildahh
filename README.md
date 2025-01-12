@@ -4,11 +4,6 @@
 - 🤖 Passionate about turning complexity into clarity using Machine Learning, AI, impactful visualizations, and data-driven solutions
 - 🌟 AWS Academy Graduate & Certified Scrum Master (CSM)
 
-## 🔭 Current Projects
-- 🔮 Food Demand Forecasting using Neural Networks
-- 🤖 Developing ML models for predictive analytics
-- 📊 Working on various data science projects as part of MIDS
-
 ### 📈 **Tech Stack**
 - **Languages**: Python, C, C++, SQL, R, HTML/CSS, Lua, JavaScript
 - **ML/AI**: scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LangChain
