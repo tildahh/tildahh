@@ -1,10 +1,8 @@
 ## 👩‍💻 About Me
 - 🎓 Currently pursuing Master's in Data Science at UC Berkeley School of Information
-- 💼 Associate Professional Programmer Analyst at Gainwell Technologies
+- 💼 Associate Professional Programmer Analyst
 - 🤖 Passionate about turning complexity into clarity using Machine Learning, AI, impactful visualizations, and data-driven solutions
 - 🌟 AWS Academy Graduate & Certified Scrum Master (CSM)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=dark)
 
 ## 🔭 Current Projects
 - 🔮 Food Demand Forecasting using Neural Networks
