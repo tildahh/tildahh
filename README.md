@@ -12,7 +12,6 @@
 
 ## 🌱 Currently Learning
 - Advanced Deep Learning Architectures
-- Natural Language Processing (NLP)
 - ML Pipeline Deployment
 
 ## 💻 Technologies
