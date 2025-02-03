@@ -2,17 +2,12 @@
 - 🎓 Currently pursuing Master's in Data Science at UC Berkeley School of Information
 - 💼 Associate Professional Programmer Analyst
 - 🤖 Passionate about turning complexity into clarity using Machine Learning, AI, impactful visualizations, and data-driven solutions
-- 🌟 AWS Academy Graduate & Certified Scrum Master (CSM)
 
 ### 📈 **Tech Stack**
 - **Languages**: Python, C, C++, SQL, R, HTML/CSS, Lua, JavaScript
 - **ML/AI**: scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LangChain
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SHAP
 - **Other**: Unix, Git, Oracle SQL Developer, Jupyter Notebooks
-
-## 🌱 Currently Learning
-- Advanced Deep Learning Architectures
-- ML Pipeline Deployment
 
 ## 💻 Technologies
 
