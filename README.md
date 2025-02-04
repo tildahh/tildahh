@@ -13,6 +13,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+
 class DataScientist:
 
     def __init__(self):
@@ -27,6 +28,7 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
+
 
 ## 📈 Github Stats
 
