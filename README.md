@@ -41,7 +41,7 @@ me.say_hi()
 
 ## 🔬 Featured Projects
 - [**RAG LMM University Agent**](https://github.com/OronaDaniel/CSUCI_Companion): Bachelor Capstone creating an LLM Agent to streamline information to university students. 
-- [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting): Forecast of food demand for 150 food distribution centers using Neural Networks. 
+- [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting): Forecast of food demand for 150 distribution centers using Neural Networks. 
 <!--
 **tildahh/tildahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
