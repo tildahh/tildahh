@@ -25,6 +25,7 @@ class DataScientist:
     def say_hi(self):
         print("Thanks for dropping by, hope you find my profile interesting! :)")
 
+
 me = DataScientist()
 me.say_hi()
 ```
@@ -37,6 +38,18 @@ me.say_hi()
     <img alt="Dario De Nardi's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=tildahh&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
 </div>
 
+## 🚀 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+## 🔬 Featured Projects
+- [**RAG LMM University Agent**](https://github.com/OronaDaniel/CSUCI_Companion): Bachelor Capstone creating an LLM Agent to streamline information to university students. 
+- [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting): Forecast of food demand for 150 food distribution centers using Neural Networks. 
 <!--
 **tildahh/tildahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
