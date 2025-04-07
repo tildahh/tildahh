@@ -40,5 +40,5 @@ me.say_hi()
 
 
 ## 🔬 Featured Work
-* [*RAG LMM University Agent (Capstone)*](https://github.com/OronaDaniel/CSUCI_Companion): fine-tuned and customized an Agent using OpenAI Beta API to streamline access to class schedules, campus events, and activities for students at California State University Channel Islands. 
-* [*Food Demand Forecasting*](https://github.com/tildahh/food-demand-forecasting): Predicitve forecasting of weekly food demand for 150 distribution centers using Deep Neural Networks. Reduced forecasting error by 60% compared to baseline, enabling more effective inventory planning, optimized resource allocation, and reduced food waste across operations.
+* 👾 [*RAG LMM University Agent (Capstone)*](https://github.com/OronaDaniel/CSUCI_Companion): fine-tuned and customized an Agent using OpenAI Beta API to streamline access to class schedules, campus events, and activities for students at California State University Channel Islands. 
+* 🍜 [*Food Demand Forecasting*](https://github.com/tildahh/food-demand-forecasting): Predicitve forecasting of weekly food demand for 150 distribution centers using Deep Neural Networks. Reduced forecasting error by 60% compared to baseline, enabling more effective inventory planning, optimized resource allocation, and reduced food waste across operations.
