@@ -13,11 +13,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+
 class DataScientist:
 
     def __init__(self):
         self.name = "Sara Matilda Orona"
-        self.role = ["M.S. in Data Science @ UC Berkeley", "B.S. in Computer Science at CSUCI (Magna Cum Laude)", "Back-End Developer"]
+        self.role = ["M.S. in Data Science @ UC Berkeley", "B.S. in Computer Science @ CSUCI (Magna Cum Laude)", "Back-End Developer"]
         self.languages_spoken = ["en_US", "sv_SE"]
         self.focus_areas = ["Machine Learning", "Data Analysis", "Visualization", "MLOps"]
 
