@@ -19,8 +19,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Sara Matilda Orona"
         self.role = ["M.S. in Data Science @ UC Berkeley",
-                     "B.S. in Computer Sience @ CSUCI (Magna Cum Laude)",
-                     "Back-End Developer"]
+                     "B.S. in Computer Sience @ CSUCI (Magna Cum Laude)", "Back-End Developer"]
         self.languages_spoken = ["en_US", "sv_SE"]
         self.focus_areas = ["Machine Learning", "Data Analysis", "Visualization", "MLOps"]
 
