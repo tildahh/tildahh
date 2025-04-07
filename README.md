@@ -39,9 +39,9 @@ me.say_hi()
 </div>
 
 
-## 🔬 Featured Projects
-- [**RAG LMM University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion): created an Agent using OpenAI API Beta to streamline information, class schedules, on campus events, and activities to university students. 
-- [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting): Forecast of food demand for 150 distribution centers using Neural Networks. 
+## 🔬 Featured Work
+* [*RAG LMM University Agent (Capstone)*](https://github.com/OronaDaniel/CSUCI_Companion): created an Agent using OpenAI Beta API to streamline access to class schedules, campus events, and activities to university students at California State University Channel Islands. 
+* [*Food Demand Forecasting*](https://github.com/tildahh/food-demand-forecasting): Forecast of food demand for 150 distribution centers using Neural Networks. 
 <!--
 **tildahh/tildahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
