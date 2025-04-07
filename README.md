@@ -17,7 +17,7 @@
 class DataScientist:
 
     def __init__(self):
-        self.name = "Tildahh"
+        self.name = "Sara Matilda Orona"
         self.role = "M.S. in Data Science @ UC Berkeley"
         self.languages_spoken = ["en_US", "sv_SE"]
         self.focus_areas = ["Machine Learning", "Data Analysis", "Visualization", "MLOps"]
@@ -40,7 +40,7 @@ me.say_hi()
 
 
 ## 🔬 Featured Projects
-- [**RAG LMM University Agent**](https://github.com/OronaDaniel/CSUCI_Companion): Bachelor Capstone creating an LLM Agent to streamline information to university students. 
+- [**RAG LMM University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion): created an Agent using OpenAI API Beta to streamline information, class schedules, on campus events, and activities to university students. 
 - [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting): Forecast of food demand for 150 distribution centers using Neural Networks. 
 <!--
 **tildahh/tildahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
