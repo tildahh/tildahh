@@ -17,14 +17,13 @@
 class DataScientist:
 
     def __init__(self):
-        self.name = "Sara Matilda Orona"
-        self.role = ["M.S. in Data Science @ UC Berkeley",
+        self.role = ["M.S. in Data Science @ UC Berkeley", "Machine Learning Engineer",
                      "B.S. in Computer Sience @ CSUCI (Magna Cum Laude)", "Back-End Developer"]
         self.languages_spoken = ["en_US", "sv_SE"]
-        self.focus_areas = ["Machine Learning", "Data Analysis", "Visualization", "MLOps"]
+        self.focus_areas = ["Machine Learning", "Agentic Evaluations", "Data Storytelling", "Interaction Design", "MLOps"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find my profile interesting! :)")
+        print("Thanks for dropping by :)")
 
 
 me = DataScientist()
@@ -41,5 +40,5 @@ me.say_hi()
 
 
 ## 🔬 Featured Work
-* 👾 [*RAG LMM University Agent (Capstone)*](https://github.com/OronaDaniel/CSUCI_Companion): fine-tuned and customized an Agent using OpenAI Beta API to streamline access to class schedules, campus events, and activities for students at California State University Channel Islands. 
+* 👾 [*LMM-based University Agent (Capstone)*](https://github.com/OronaDaniel/CSUCI_Companion): fine-tuned and customized an Agent using OpenAI Beta API with retrieval augmented generation to streamline access to class schedules, campus events, and activities for students at California State University Channel Islands. 
 * 🍜 [*Food Demand Forecasting*](https://github.com/tildahh/food-demand-forecasting): Predicitve forecasting of weekly food demand for 150 distribution centers using Deep Neural Networks. Reduced forecasting error by 60% compared to baseline, enabling more effective inventory planning, optimized resource allocation, and reduced food waste across operations.
