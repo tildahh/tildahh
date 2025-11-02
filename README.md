@@ -2,9 +2,13 @@
   Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-<p align="center">   
-  <a href="mailto:sara.orona@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
-  <a href="https://www.linkedin.com/in/sara-orona/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center">
+  <a href="mailto:sara.orona@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4">
+  </a>
+  <a href="https://www.linkedin.com/in/sara-orona/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ## 👩‍💻 About Me
@@ -18,27 +22,36 @@ class DataScientist:
 
     def __init__(self):
         self.role = ["M.S. in Data Science @ UC Berkeley", "Machine Learning Engineer",
-                     "B.S. in Computer Sience @ CSUCI (Magna Cum Laude)", "Back-End Developer"]
+                     "B.S. in Computer Sience @ CSUCI (Magna Cum Laude)", "Full-Stack Developer"]
+        self.focus_areas = [
+            "Generative AI",
+            "Agentic Evaluations",
+            "Machine Learning",
+            "Human-AI Interaction",
+            "MLOps"
+        ]
         self.languages_spoken = ["en_US", "sv_SE"]
-        self.focus_areas = ["Machine Learning", "Agentic Evaluations", "Data Storytelling", "Interaction Design", "MLOps"]
 
-    def say_hi(self):
+    def hello_world(self):
         print("Thanks for dropping by :)")
 
 
 me = DataScientist()
-me.say_hi()
+me.hello_world()
 ```
+
+## 🔬 Featured Work
+| Project                                                                                          | Description                                                                                                                                                                           |
+| :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🧠 [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting)             | Predictive modeling for weekly food demand across 150 distribution centers using deep neural networks. Reduced forecasting error by **60%**, optimizing resources and reducing waste. |
+| 👾 [**LLM-Based University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI Beta API**, providing students with instant access to schedules and campus info.                                                                    |                                                             |****
+
+## 🌱 Currently
+* 🎓 Pursuing my Master in Data Science @ UC Berkeley
+* 🧪 Designing Agentic Evaluation Frameworks during my internship at Amgen
+* ⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
 
 
 ## 📈 Github Stats
 
-<div align="center">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" height="200"/>
-    <img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=tildahh&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
-</div>
-
-
-## 🔬 Featured Work
-* 👾 [*LMM-based University Agent (Capstone)*](https://github.com/OronaDaniel/CSUCI_Companion): fine-tuned and customized an Agent using OpenAI Beta API with retrieval augmented generation to streamline access to class schedules, campus events, and activities for students at California State University Channel Islands. 
-* 🍜 [*Food Demand Forecasting*](https://github.com/tildahh/food-demand-forecasting): Predicitve forecasting of weekly food demand for 150 distribution centers using Deep Neural Networks. Reduced forecasting error by 60% compared to baseline, enabling more effective inventory planning, optimized resource allocation, and reduced food waste across operations.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p>
