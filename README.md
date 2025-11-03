@@ -9,7 +9,7 @@
     <img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4">
   </a>
   <a href="https://www.linkedin.com/in/sara-orona/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -58,6 +58,4 @@ me.hello_world()
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p>
-
-<details> <summary>Show stats</summary> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="165" /> </p> </details> ```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="165" /> </p>
