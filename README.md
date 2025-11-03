@@ -4,9 +4,6 @@
 
 <p align="center"><strong>Focused on Generative, Agentic AI, Evaluations, and building the next generation of intelligent systems</strong></p>
 
-**Machine Learning Engineer** — Generative AI, agentic systems, and evaluation.  
-
-
 <p align="center">
   <a href="mailto:sara.orona@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4">
@@ -15,6 +12,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
 ## 👩‍💻 About Me
 
 ```python
@@ -25,8 +23,9 @@
 class DataScientist:
 
     def __init__(self):
-        self.role = ["M.S. in Data Science @ UC Berkeley", "Machine Learning Engineer",
-                     "B.S. in Computer Science @ CSUCI (Magna Cum Laude)", "Full-Stack Developer"]
+        self.role = ["M.S. in Data Science @ UC Berkeley",
+                     "B.S. in Computer Science @ CSUCI (Magna Cum Laude)"
+        ]
         self.focus_areas = [
             "Generative AI",
             "Agentic Evaluations",
@@ -57,15 +56,6 @@ me.hello_world()
 * 🧪 Designing Agentic Evaluation Frameworks during my internship at Amgen
 * ⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
 
-## 🧰 Languages & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,keras,aws,docker,git,linux,vim,vscode" />
-</p>
 
 ## 📈 GitHub Stats
 
