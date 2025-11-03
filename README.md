@@ -1,15 +1,15 @@
-<h1 align="center">
-  Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
+<h1 align="center">Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"><strong>Generative & Agentic AI • Evaluation • Next generation of intelligent systems</strong></p>
 
 <p align="center">
   <a href="mailto:sara.orona@outlook.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4">
+    <img alt="Email"
+         src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117">
   </a>
   <a href="https://www.linkedin.com/in/sara-orona/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn"
+         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -50,6 +50,7 @@ me.hello_world()
 | ⚡ [**DGX Spark Dojo**](https://github.com/tildahh/dgx-spark-dojo)                                | Experiments, benchmarks, agentic, and GenAI prototypes on **NVIDIA DGX Spark**.                                                           |
 | 🧠 [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting)             | Predictive modeling for weekly food demand across 150 distribution centers using deep neural networks. Reduced forecasting error by **60%**, optimizing resources and reducing waste. |
 | 👾 [**LLM-Based University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI Beta API**, providing students with instant access to schedules and campus info.                                                                    |                                                             |****                                           
+
 
 ## 🌱 Currently
 * 🎓 Pursuing my Master in Data Science @ UC Berkeley
