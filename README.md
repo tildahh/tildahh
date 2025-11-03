@@ -2,7 +2,7 @@
   Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 </h1>
 
- 🎓 **MIDS @ UC Berkeley** · 💡 **Machine Learning Engineer** · 🤖 **Focused on Agentic AI, Evaluations, and building the next generation of intelligent systems**
+Machine Learning Engineer** · **Focused on Agentic AI, Evaluations, and building the next generation of intelligent systems
  
 <p align="center">
   <a href="mailto:sara.orona@outlook.com">
@@ -56,8 +56,14 @@ me.hello_world()
 * ⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
 
 ## 🧰 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,pandas,numpy,aws,docker,git,sql,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,docker,git,html,css,vscode&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 </p>
 
 ## 📈 GitHub Stats
