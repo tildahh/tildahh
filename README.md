@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center"><strong>Focused on Generative, Agentic AI, Evaluations, and building the next generation of intelligent systems</strong></p>
- 
+
+**Machine Learning Engineer** — Generative AI, agentic systems, and evaluation.  
+
 
 <p align="center">
   <a href="mailto:sara.orona@outlook.com">
@@ -13,7 +15,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
 ## 👩‍💻 About Me
 
 ```python
