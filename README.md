@@ -22,7 +22,7 @@ class DataScientist:
 
     def __init__(self):
         self.edu = [
-            "M.S. in Data Science @ UC Berkeley",
+            "Master in Data Science @ UC Berkeley",
             "B.S. in Computer Science @ CSUCI (Magna Cum Laude)"
         ]
         self.focus_areas = [
