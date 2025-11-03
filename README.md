@@ -2,7 +2,7 @@
   Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-<p align="center"><strong>Generative & Agentic AI • Evaluation • Building the next generation of intelligent systems</strong></p>
+<p align="center"><strong>Generative & Agentic AI • Evaluation • Next generation of intelligent systems</strong></p>
 
 <p align="center">
   <a href="mailto:sara.orona@outlook.com">
@@ -23,7 +23,7 @@
 class DataScientist:
 
     def __init__(self):
-        self.role = [
+        self.edu = [
             "M.S. in Data Science @ UC Berkeley",
             "B.S. in Computer Science @ CSUCI (Magna Cum Laude)"
         ]
@@ -52,10 +52,12 @@ me.hello_world()
 | 👾 [**LLM-Based University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI Beta API**, providing students with instant access to schedules and campus info.                                                                    |                                                             |****                                           
 
 ## 🌱 Currently
-🎓 Pursuing my Master in Data Science @ UC Berkeley
-🧪 Designed Agentic Evaluation Framework during my internship at Amgen
-⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
+* 🎓 Pursuing my Master in Data Science @ UC Berkeley
+* 🧪 Designed Agentic Evaluation Framework during my internship at Amgen
+* ⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
 
 ## 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p>
+
+<details> <summary>Show stats</summary> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="165" /> </p> </details> ```
