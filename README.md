@@ -2,7 +2,7 @@
   Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-<p align="center"><strong>Machine Learning Engineer - Generative & Agentic AI, Evaluations</strong></p>
+<p align="center"><strong>Generative & Agentic AI • Evaluation • Building the next generation of intelligent systems</strong></p>
 
 <p align="center">
   <a href="mailto:sara.orona@outlook.com">
@@ -23,8 +23,9 @@
 class DataScientist:
 
     def __init__(self):
-        self.role = ["M.S. in Data Science @ UC Berkeley",
-                     "B.S. in Computer Science @ CSUCI (Magna Cum Laude)"
+        self.role = [
+            "M.S. in Data Science @ UC Berkeley",
+            "B.S. in Computer Science @ CSUCI (Magna Cum Laude)"
         ]
         self.focus_areas = [
             "Generative AI",
@@ -48,13 +49,12 @@ me.hello_world()
 | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ⚡ [**DGX Spark Dojo**](https://github.com/tildahh/dgx-spark-dojo)                                | Experiments, benchmarks, agentic, and GenAI prototypes on **NVIDIA DGX Spark**.                                                           |
 | 🧠 [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting)             | Predictive modeling for weekly food demand across 150 distribution centers using deep neural networks. Reduced forecasting error by **60%**, optimizing resources and reducing waste. |
-| 👾 [**LLM-Based University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI Beta API**, providing students with instant access to schedules and campus info.                                                                    |                                                             |****                                                                
+| 👾 [**LLM-Based University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI Beta API**, providing students with instant access to schedules and campus info.                                                                    |                                                             |****                                           
 
 ## 🌱 Currently
-* 🎓 Pursuing my Master in Data Science @ UC Berkeley and building the next generation of intelligent systems
-* 🧪 Designing Agentic Evaluation Frameworks during my internship at Amgen
-* ⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
-
+🎓 Pursuing my Master in Data Science @ UC Berkeley
+🧪 Designed Agentic Evaluation Framework during my internship at Amgen
+⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
 
 ## 📈 GitHub Stats
 
