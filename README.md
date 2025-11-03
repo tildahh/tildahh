@@ -1,9 +1,10 @@
 <h1 align="center">
-  Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+  Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-Machine Learning Engineer** · **Focused on Agentic AI, Evaluations, and building the next generation of intelligent systems
+<p align="center"><strong>Focused on Generative, Agentic AI, Evaluations, and building the next generation of intelligent systems</strong></p>
  
+
 <p align="center">
   <a href="mailto:sara.orona@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4">
@@ -57,13 +58,12 @@ me.hello_world()
 
 ## 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,docker,git,html,css,vscode&perline=8" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,keras,aws,docker,git,linux,vim,vscode" />
 </p>
 
 ## 📈 GitHub Stats
