@@ -2,15 +2,13 @@
 
 <p align="center"><strong>Generative & Agentic AI • Evaluation • Next generation of intelligent systems</strong></p>
 
-<p align="center">
-  <a href="mailto:sara.orona@outlook.com">
-    <img alt="Email"
-         src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117">
-  </a>
-  <a href="https://www.linkedin.com/in/sara-orona/">
-    <img alt="LinkedIn"
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<p align="center"> 
+  <a href="mailto:sara.orona@outlook.com"> 
+    <img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"> 
+  </a> 
+  <a href="https://www.linkedin.com/in/sara-orona/"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a> 
 </p>
 
 ## 👩‍💻 About Me
