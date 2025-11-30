@@ -46,7 +46,7 @@ me.hello_world()
 | 👾 [**LLM-Based University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI Beta API**, providing students with instant access to schedules and campus info.                                                                    |                                                             |****                                           
 
 
-## 🌱 Now
+## Now
 * 🎓 Pursuing my Master in Data Science @ UC Berkeley
 * 🧪 Designed an agentic evaluation framework during my internship at Amgen
 * ⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
