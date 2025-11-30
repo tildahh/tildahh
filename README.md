@@ -1,6 +1,6 @@
 <h1 align="center">Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"><strong>Generative & Agentic AI • Evaluation • Next generation of intelligent systems</strong></p>
+<p align="center"><strong>Generative AI • Agentic Evaluation • ML Systems</strong></p>
 
 <p align="center"> 
   <a href="mailto:sara.orona@outlook.com"> 
@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-## 👩‍💻 About Me
+## 👩‍💻 About
 
 ```python
 #!/usr/bin/python
@@ -29,7 +29,6 @@ class DataScientist:
             "Generative AI",
             "Agentic Evaluations",
             "Machine Learning",
-            "Human-AI Interaction",
             "MLOps"
         ]
         self.languages_spoken = ["en_US", "sv_SE"]
@@ -42,19 +41,15 @@ me = DataScientist()
 me.hello_world()
 ```
 
-## 🔬 Featured Work
+## 🔬 Projects
 | Project                                                                                          | Description                                                                                                                                                                           |
 | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ⚡ [**DGX Spark Dojo**](https://github.com/tildahh/dgx-spark-dojo)                                | Experiments, benchmarks, agentic, and GenAI prototypes on **NVIDIA DGX Spark**.                                                           |
+| ⚡ [**DGX Spark Dojo**](https://github.com/tildahh/dgx-spark-dojo)                                | GenAI and agentic AI prototypes on **NVIDIA DGX Spark**.                                                           |
 | 🧠 [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting)             | Predictive modeling for weekly food demand across 150 distribution centers using deep neural networks. Reduced forecasting error by **60%**, optimizing resources and reducing waste. |
 | 👾 [**LLM-Based University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI Beta API**, providing students with instant access to schedules and campus info.                                                                    |                                                             |****                                           
 
 
-## 🌱 Currently
+## 🌱 Now
 * 🎓 Pursuing my Master in Data Science @ UC Berkeley
-* 🧪 Designed Agentic Evaluation Framework during my internship at Amgen
+* 🧪 Designed an agentic evaluation framework during my internship at Amgen
 * ⚙️ Exploring PyTorch, vLLM, and evaluation pipelines for generative models
-
-## 📈 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tildahh&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tildahh&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="165" /> </p>
