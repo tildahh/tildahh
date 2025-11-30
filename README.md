@@ -25,7 +25,7 @@ class DataScientist:
         ]
         self.focus_areas = [
             "Generative AI",
-            "Agentic Evaluations",
+            "Agentic Evaluation",
             "ML Systems"
         ]
         self.languages_spoken = ["en_US", "sv_SE"]
@@ -43,7 +43,7 @@ me.hello_world()
 | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ⚡ [**DGX Spark Dojo**](https://github.com/tildahh/dgx-spark-dojo)                                | GenAI and agentic AI prototypes on **NVIDIA DGX Spark**.                                                           |
 | 🧠 [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting)             | Predictive modeling for weekly food demand across 150 distribution centers using deep neural networks. Reduced forecasting error by **60%**, optimizing resources and reducing waste. |
-| 👾 [**LLM-Based University Agent (Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI Beta API**, providing students with instant access to schedules and campus info.                                                                    |                                                             |****                                           
+| 👾 [**LLM-Based University Agent**](https://github.com/OronaDaniel/CSUCI_Companion)   | CSU Channel Islands custom agent using **RAG + OpenAI API**, providing students with instant access to schedules and campus info.                                                                    |                                                                                              
 
 
 ## Now
