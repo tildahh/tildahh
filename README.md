@@ -1,17 +1,15 @@
 <h1 align="center">Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<p align="center"><strong>Generative AI • Agentic Evaluation • ML Systems</strong></p>
-
+<p align="center"><strong>Building and evaluating AI agents</strong></p>
 <p align="center"> 
   <a href="mailto:sara.orona@outlook.com"> 
     <img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"> 
   </a> 
   <a href="https://www.linkedin.com/in/sara-orona/"> 
-    <img alt=" LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a> 
 </p>
 
-## 👩‍💻 About
+## About
 
 ```python
 #!/usr/bin/python
@@ -28,8 +26,7 @@ class DataScientist:
         self.focus_areas = [
             "Generative AI",
             "Agentic Evaluations",
-            "Machine Learning",
-            "MLOps"
+            "ML Systems"
         ]
         self.languages_spoken = ["en_US", "sv_SE"]
 
@@ -41,7 +38,7 @@ me = DataScientist()
 me.hello_world()
 ```
 
-## 🔬 Projects
+## Projects
 | Project                                                                                          | Description                                                                                                                                                                           |
 | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ⚡ [**DGX Spark Dojo**](https://github.com/tildahh/dgx-spark-dojo)                                | GenAI and agentic AI prototypes on **NVIDIA DGX Spark**.                                                           |
