@@ -15,7 +15,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class DataScientist:
 
     def __init__(self):
@@ -38,7 +37,7 @@ me.hello_world()
 
 | Project                                                                                              | Description                                                                                                                                                                                                                                                                                                  |
 | :--------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🏁 [**AgentX-AgentBeats: CORE-Bench (HAL Harness)**](https://github.com/ab-shetty/hal-harness/tree/main/hal/benchmarks/corebench) | Competing in AgentBeats, focused on agentifying the benchmark. Work focused on **CORE-Bench**: benchmarking agentic systems on **computational reproducibility** tasks (environment setup, running paper code, answering result questions). |
+| 🏁 [**AgentX-AgentBeats: CORE-Bench (HAL Harness)**](https://github.com/ab-shetty/hal-harness/tree/main/hal/benchmarks/corebench) | Agentifying **CORE-Bench** to benchmark agents on computational reproducibility: environment setup, running paper code, and verifying results. |
 | ⚡ [**DGX Spark Dojo**](https://github.com/tildahh/dgx-spark-dojo)                                    | GenAI and agentic AI prototypes on **NVIDIA DGX Spark**.                                                                                                                                                                                                                                                     |
 | 🧠 [**Food Demand Forecasting**](https://github.com/tildahh/food-demand-forecasting)                 | Predictive modeling for weekly food demand across 150 distribution centers using deep neural networks. Reduced forecasting error by **60%**, optimizing resources and reducing waste.                                                                                                                        |
 | 👾 [**LLM-Based University Agent (CS Capstone)**](https://github.com/OronaDaniel/CSUCI_Companion)                  | CSU Channel Islands custom agent using **RAG + OpenAI API**, providing students with instant access to schedules and campus info.                                                                                                                                                                                                                                             |                                                                                              
