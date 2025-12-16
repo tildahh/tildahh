@@ -1,5 +1,5 @@
 <h1 align="center">Hi, welcome to my repo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p align="center"><strong>Building and evaluating AI agents on DGX Spark</strong></p>
+<p align="center"><strong>Building and evaluating AI agents</strong></p>
 <p align="center"> 
   <a href="mailto:sara.orona@outlook.com"> 
     <img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"> 
