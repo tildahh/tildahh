@@ -2,12 +2,7 @@
 <p align="center"><strong>Building and evaluating AI agents & Intelligent Systems</strong></p>
 
 <p align="center">
-  <a href="mailto:sara.orona@outlook.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4">
-  </a>
-  <a href="https://www.linkedin.com/in/sara-orona/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="mailto:sara.orona@outlook.com"><img alt="Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4"></a><a href="https://www.linkedin.com/in/sara-orona/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## About
