@@ -2,7 +2,7 @@
 
 Currently building open-source agent benchmarks at UC Berkeley.
 
-UC Berkeley MIDS · Amgen AI Innovation Lab · AgentBeats core contributor
+UC Berkeley MIDS · Amgen AI Innovation Lab · AgentBeats contributor
 
 ---
 
